@@ -1,0 +1,10 @@
+{
+    "wall":{
+        "width": 176.0 ,
+        "height": 96.0 , 
+        "panels": 5 ,
+        "baseboard": 3.0, 
+        "panel_gap": 4.0, 
+        "chair_rail_bottom": 33.75
+    }
+}
